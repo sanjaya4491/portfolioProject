@@ -1,0 +1,102 @@
+{
+"persons": [
+  {
+    "personCode": "007Y",
+    "broker": {
+      "title": "E",
+      "section": " sec123"
+    },
+    "lastName": "Cordova",
+    "firstName": "Salvatore",
+    "address": {
+      "street": "9903 Jenifer Streets",
+      "city": "Fremont",
+      "state": "NE",
+      "zipCode": "68025",
+      "country": "USA"
+    },
+    "emails": [
+      {
+        "address": "cordova0@zdnet.com"
+      }
+    ]
+  },
+  {
+    "personCode": "UIMG",
+    "lastName": "Sickling",
+    "firstName": "Adora",
+    "address": {
+      "street": "1 School Road",
+      "city": " Chicago",
+      "state": " IL",
+      "zipCode": " 60613",
+      "country": " USA"
+    },
+    "emails": [
+      {
+        "address": "asickling1@a8.net"
+      },
+      {
+        "address": " ohyeah@ohyea.com"
+      }
+    ]
+  },
+  {
+    "personCode": "YMCA",
+    "lastName": "Handscomb",
+    "firstName": "Dionis",
+    "address": {
+      "street": "8 Ronald Regan Hill",
+      "city": " Omaha",
+      "state": " NE",
+      "zipCode": " 68116",
+      "country": " USA"
+    },
+    "emails": [
+      {
+        "address": " "
+      }
+    ]
+  },
+  {
+    "personCode": "PK9B",
+    "broker": {
+      "title": "J",
+      "section": " sec290"
+    },
+    "lastName": "De Angelis",
+    "firstName": "Lillian",
+    "address": {
+      "street": "1 Independence Plaza",
+      "city": " New York",
+      "state": " NY",
+      "zipCode": " 10004",
+      "country": " USA"
+    },
+    "emails": [
+      {
+        "address": " ldeangelis3@weebly.com"
+      }
+    ]
+  },
+  {
+    "personCode": "R555RD",
+    "lastName": "Carress",
+    "firstName": "Quinn",
+    "address": {
+      "street": "64516 Golf View Drive",
+      "city": " Omaha",
+      "state": " NE",
+      "zipCode": " 68116",
+      "country": " USA"
+    },
+    "emails": [
+      {
+        "address": "qcarress4@toplist.cz"
+      },
+      {
+        "address": " whatever@whatever.com"
+      }
+    ]
+  }
+]}

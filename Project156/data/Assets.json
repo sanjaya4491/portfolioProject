@@ -1,0 +1,72 @@
+{
+"assets": [
+  {
+    "apr": "13.05",
+    "code": "BX001-23",
+    "type": "D",
+    "label": "Money Market Savings"
+  },
+  {
+    "apr": "0.24",
+    "code": "CCBB00",
+    "type": "D",
+    "label": "Savings Account"
+  },
+  {
+    "apr": "4.35",
+    "code": "99800",
+    "type": "D",
+    "label": "4-year CD"
+  },
+  {
+    "apr": "2.35",
+    "code": "apple",
+    "type": "D",
+    "label": "3-year Rollover CD"
+  },
+  {
+    "apr": "2.75",
+    "code": "dell22",
+    "type": "D",
+    "label": "2-year Rollover CD"
+  },
+  {
+    "quarterlyDividend": "0.0",
+    "baseReturn": "5.6",
+    "betaMeasure": "-0.05",
+    "stockSymbol": "alpabte",
+    "sharePrice": "84.708",
+    "code": "google",
+    "type": "S",
+    "label": "chrome Inc."
+  },
+  {
+    "quarterlyDividend": "12.00",
+    "baseReturn": "3.2",
+    "betaMeasure": "0.01",
+    "stockSymbol": "DEO",
+    "sharePrice": "12.75",
+    "code": "dadooe90",
+    "type": "S",
+    "label": "Diageo PLC"
+  },
+  {
+    "quarterlyDividend": "24.50",
+    "baseReturn": "4.3",
+    "betaMeasure": "-0.07",
+    "stockSymbol": "abc",
+    "sharePrice": "42.80",
+    "code": "324yoo",
+    "type": "S",
+    "label": "acccv"
+  },
+  {
+    "quarterlyDividend": "1000",
+    "baseReturn": "2",
+    "baseOmegaMeasure": "-0.15",
+    "totalValue": "4333",
+    "code": "AME21",
+    "type": "P",
+    "label": "Many Midget Manufacturers Man."
+  }
+]}
